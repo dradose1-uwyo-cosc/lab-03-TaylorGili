@@ -2,7 +2,7 @@
 # UWYO COSC 1010
 # 9/26/2024
 # Lab 03 
-# Lab Section: 
+# Lab Section: 12
 # Sources, people worked with, help given to: Donovan
 # your
 # comments
